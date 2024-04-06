@@ -10,3 +10,8 @@
 
 //Weekly contest 383 Leetcode hard
 //https://leetcode.com/contest/weekly-contest-383/problems/minimum-time-to-revert-word-to-initial-state-ii/
+//Weeky contest 348 Leetcode hard
+//https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii/description/
+
+//Codeforces Round 930 (Div2)
+//https://codeforces.com/contest/1937/problem/B
