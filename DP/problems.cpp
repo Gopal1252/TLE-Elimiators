@@ -34,9 +34,17 @@
 
 //WEEK2
 
-//DP 2.1 video
-//https://codeforces.com/problemset/problem/1151/B (very interesting, storing extra info in the dp array)
+//DP 2.1 video (dp optimizayions -> state,transition and space optimizations)
+//https://codeforces.com/problemset/problem/1151/B (very interesting (actually answer construction), storing extra info in the dp array)
 //https://cses.fi/problemset/task/1744
+
+//2.2 (answer construction)
+//https://codeforces.com/problemset/problem/977/F
+//https://codeforces.com/problemset/problem/1324/E (not answer construction)
+
+//2.3 (Representing Non Integer DP permutations and Cycling DP states)
+// Google kickstart 2022 ques --> Palindrome Free Strings 
+//
 
 
 //DR1
