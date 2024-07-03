@@ -35,7 +35,7 @@
 //WEEK2
 
 //DP 2.1 video (dp optimizayions -> state,transition and space optimizations)
-//https://codeforces.com/problemset/problem/1151/B (very interesting (actually answer construction), storing extra info in the dp array)
+//https://codeforces.com/problemset/problem/1151/B (very interesting (actually answer construction), storing extra info in the dp array) (also the one I saw from priyansh's submission history)
 //https://cses.fi/problemset/task/1744
 
 //2.2 (answer construction)
@@ -48,22 +48,22 @@
 
 
 //DR1
-//https://codeforces.com/problemset/problem/1389/B
-//https://codeforces.com/problemset/problem/1249/E
+//https://codeforces.com/problemset/problem/1389/B  //
+//https://codeforces.com/problemset/problem/1249/E  //
 
 //DR2
-//https://codeforces.com/problemset/problem/1498/C
+//https://codeforces.com/problemset/problem/1498/C  //
 //https://codeforces.com/problemset/problem/1151/B (done in DP 2.1)
 
 //DR3
-//https://codeforces.com/problemset/problem/1625/C
-//https://codeforces.com/problemset/problem/1392/D
+//https://codeforces.com/problemset/problem/1625/C  //
+//https://codeforces.com/problemset/problem/1392/D  //
 
 //DR4
-//https://atcoder.jp/contests/dp/tasks/dp_n
-//https://codeforces.com/problemset/problem/1077/F1
+//https://atcoder.jp/contests/dp/tasks/dp_n  //
+//https://codeforces.com/problemset/problem/1077/F1  //
 
 //DR5
-//https://codeforces.com/problemset/problem/1360/F
+//https://codeforces.com/problemset/problem/1360/F  //
 // Google kickstart 2022 ques --> Palindrome Free Strings 
 
